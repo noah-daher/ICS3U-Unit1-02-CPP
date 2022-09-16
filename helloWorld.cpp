@@ -1,3 +1,5 @@
+// Copyright 2022 Noah Daher
+
 #include <iostream>
 
 int main() {
